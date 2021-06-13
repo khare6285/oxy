@@ -58,7 +58,7 @@
     }
     
     .check{
-        background-image: url("Images/spider-man-superhero-spider-man-into-the-spider-verse-miles-morales-wallpaper-preview.jpg");
+        background-image: url("spider-man-superhero-spider-man-into-the-spider-verse-miles-morales-wallpaper-preview.jpg");
         background-size:cover;
         background-repeat: no-repeat;
         height: 400px;
@@ -81,7 +81,7 @@
     }
     
     input[type=text] {
-        background-image: url("Images/location.png");
+        background-image: url("location.png");
         background-size: 20px;
 
         background-position:top;
@@ -98,7 +98,7 @@
       }
       
       input[type=date] {
-        background-image: url("Images/location.png");
+        background-image: url("location.png");
         background-size: 20px;
         background-color: white;
 
@@ -114,7 +114,7 @@
     }
     
       input[type=number] {
-        background-image: url("Images/location.png");
+        background-image: url("location.png");
         background-size: 20px;
 
         background-color: white;
